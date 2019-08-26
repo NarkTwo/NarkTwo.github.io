@@ -103,11 +103,11 @@ textarea {
 
 
 #parent {
-	padding: 10% 0;
+	padding: 0% 0;
 }
 
 #child {
-	padding: 10% 0;
+	padding: 0% 0;
 	line-height: 8px;
 }
 
